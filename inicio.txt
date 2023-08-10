@@ -8,3 +8,4 @@ subindo no github
 subindo de novo
 comando git pull
 de novo outra vez
+agora quem sabe vai
