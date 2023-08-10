@@ -6,4 +6,3 @@ caca cocô
 uso do comando git restore
 subindo no github
 subindo de novo
-comando git pull
