@@ -2,3 +2,6 @@ não sei o que e to fazenu
 fazendo o primeiro committg
 
 caca cocô
+
+uso do comando git restore
+subindo no github
